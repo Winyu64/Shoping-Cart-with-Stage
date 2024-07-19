@@ -1,11 +1,7 @@
+![image](https://github.com/user-attachments/assets/b64a7537-d5ec-480b-8c44-16a1583d4dea)
 
 ```markdown
 # Shopping Cart with Stage
-
-
-![image](https://github.com/user-attachments/assets/eee082ca-3e30-43da-b195-8b0429c11bb4)
-
-
 
 ## บทนำ
 
