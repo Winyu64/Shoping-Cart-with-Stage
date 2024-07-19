@@ -3,7 +3,8 @@
 # Shopping Cart with Stage
 
 
-![image](https://github.com/user-attachments/assets/2ea9adaa-5076-42ae-bc66-5c51fb0facba)
+![image](https://github.com/user-attachments/assets/eee082ca-3e30-43da-b195-8b0429c11bb4)
+
 
 
 ## บทนำ
